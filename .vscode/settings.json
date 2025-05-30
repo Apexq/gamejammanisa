@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "reality perception.sln"
+    "dotnet.defaultSolution": "jam.sln"
 }
